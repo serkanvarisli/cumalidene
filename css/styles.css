@@ -6386,6 +6386,10 @@ fieldset:disabled .btn {
   padding: 1rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .modal-footer {
   display: flex;
   flex-wrap: wrap;
@@ -12495,4 +12499,8 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.sertifika {
+  color: rgb(33, 37, 41);
 }
