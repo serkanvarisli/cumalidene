@@ -1,2 +1,2 @@
 # SerkanVarisliCV ABOUT ME 
-Demo: https://serkanvarisli.github.io/SerkanVarisliCV/
+Demo: https://serkanvarisli.netlify.app/
